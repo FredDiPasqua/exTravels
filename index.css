@@ -10,17 +10,28 @@ header{
 figure{
     margin: 0;
     display: inline-block;
+    width: 30%;
+    text-align: center;
 }
 header section{
     display: inline-block;
-    margin-left: 20%;
-}
-h1{
-    margin: 0;
+    width: 67%;
+    text-align: right;
 }
 header figure h1{
     color: white;
 }
 input{
-    border-radius: 6px;
+    width: 350px;
+    height: 24px;
+    margin-right: -5px;
+}
+button{
+    background-color: red;
+    border: none;
+    color: white;
+    width: 90px;
+    height: 30px;
+
+
 }
